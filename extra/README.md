@@ -1,6 +1,13 @@
 # Temporary Extra Directory for Testing Purposes
 
 
+### Update 2023-07-18 | Listing and Extracting + Termux testing up next.
+
+
+https://github.com/wuseman/EMAGNET/assets/26827453/8fd9d932-a726-46e7-8842-178c7c619feb
+
+
+
 ### Update 2023-07-15 | Testing new stuff
 
 https://github.com/wuseman/EMAGNET/assets/26827453/61610d2e-9b4b-4ab6-a76b-79e4b2d63d8c
